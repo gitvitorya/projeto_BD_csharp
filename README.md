@@ -1,2 +1,21 @@
-# projeto_BD_csharp
- Projeto utilizando c# windowns forms e banco de dados (busca o produto pelo id digitado pelo usuário, insere novos produtos e deleta com base no id digitado).
+# Projeto de CRUD com Windows Forms .NET
+
+Este é um projeto simples de CRUD (Create, Read, Update, Delete) desenvolvido em C# utilizando Windows Forms .NET e SQLite. O projeto permite gerenciar produtos em um banco de dados SQLite, permitindo a inserção, busca e remoção de produtos.
+
+## Funcionalidades
+
+- Inserir novos produtos no banco de dados.
+- Buscar produtos pelo ID no banco de dados.
+- Remover produtos do banco de dados.
+
+## Pré-requisitos
+
+- Visual Studio com suporte para Windows Forms .NET instalado.
+- Conhecimento básico em C#.
+
+## Como usar
+
+1. Clone este repositório:
+
+   ```bash
+   git clone https://github.com/seu-usuario/ProjetoBD.git
